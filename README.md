@@ -20,7 +20,7 @@
 ## 自己紹介
 ......
 
-*日本の専門学校でIT・プログラミングを専攻し、日々知識と技術の習得に取り組んでいます。現在は、Java、Visual Basic、Pythonなどのプログラミング言語を中心に学習しています。
+日本の専門学校でIT・プログラミングを専攻し、日々知識と技術の習得に取り組んでいます。現在は、Java、Visual Basic、Pythonなどのプログラミング言語を中心に学習しています。
 
 新しい技術や知識を学ぶことに興味があり、分からないことがあった場合には、自ら調べて理解を深め、実際に手を動かしながら問題を解決することを大切にしています。
 
@@ -28,3 +28,25 @@
 
 将来は、これまで身につけたIT・プログラミングの知識と技術を活かし、周囲から信頼され、責任を持って仕事に取り組むことのできるエンジニアとして成長したいと考えています。
 
+## スキル
+
+### Programming Languages
+- Visual Basic
+- Java
+- Python
+- PHP
+- SQL
+
+### Web Development
+- HTML
+- CSS
+
+### Database
+- Database
+
+### Design / Office
+- Photoshop
+- PowerPoint
+
+### Other
+- Arduino（基本的なコード）
