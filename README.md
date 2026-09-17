@@ -12,12 +12,10 @@
 
 ## 資格 (日本語)
 ......
+
     *JLPT N3 — 合格
-
     *JLPT N2 — 学習中
-
     *TOEIC Listening & Reading — 560点
-
     *ITパスポート — 学習中
 
 ## 自己紹介
