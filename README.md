@@ -9,15 +9,17 @@
     * TOEIC Listening & Reading - 560
     * IT Passport - Currently Studying
 
-......
+
 ## 資格 (日本語)
 ......
-    * JLPT N3 - 合格
-    * JLPT N2 - 学習中
-    * TOEIC Listening & Reading - 560点
-    * ITパスポート - 学習中
+    *JLPT N3 — 合格
 
-......
+    *JLPT N2 — 学習中
+
+    *TOEIC Listening & Reading — 560点
+
+    *ITパスポート — 学習中
+
 ## 自己紹介
 
 日本の専門学校でIT・プログラミングを専攻し、日々知識と技術の習得に取り組んでいます。現在は、Java、Visual Basic、Pythonなどのプログラミング言語を中心に学習しています。
