@@ -43,6 +43,7 @@
 
 ### Database
 - Database
+- Excel
 
 ### Design / Office
 - Photoshop
