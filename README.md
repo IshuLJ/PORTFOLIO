@@ -43,11 +43,11 @@
 
 ### Database
 - Database
-- Excel
 
 ### Design / Office
 - Photoshop
 - PowerPoint
+- Excel
 
 ### Other
 - Arduino（基本的なコード）
