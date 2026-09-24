@@ -53,3 +53,8 @@
 ### Other
 - Arduino（基本的なコード）
 
+## 再作物 (PROJECTS)
+.....
+
+### Visual Basic Projects 
+- [Visual Basic Projects] (https://github.com/IshuLJ/visual-basic-projects)
